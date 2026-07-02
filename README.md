@@ -33,7 +33,7 @@ Install the following on your system:
 ## 📦 Step 1 — Clone the Project
 ```sh
 git clone https://github.com/Kamakhya-s/Production-Ready-Django-React-SaaS-Platform.git
-cd Production-Ready Django + React SaaS Platform
+cd Production-Ready\ Django\ +\ React\ SaaS\ Platform/
 ```
 
 ## Step 2 - Remove Git history
